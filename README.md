@@ -11,6 +11,10 @@ This application is a employee directory based in React. This task required me t
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 
+## Picture Demo
 
 ![Alt text](public/demoPic.jpeg?raw=true "Title")
 
+## Link to Heroku App
+
+## -https://secure-waters-50171.herokuapp.com/
